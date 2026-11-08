@@ -1,0 +1,13 @@
+EnvironmentTextureGrabber3D
+EnvironmentSpriteGrabber
+EnvironmentSpriteFactory
+PlayerEnvironmentFader
+EnvironmentFadeArea
+EnvironmentFader
+ShadowController
+SpriteLayerInfo
+MessageWaiter
+SpriteCopier
+ObjectShaker
+MessageBox
+Image

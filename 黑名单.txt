@@ -1,0 +1,6 @@
+pause
+freeze
+event
+[event
+,
+},
